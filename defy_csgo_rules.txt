@@ -1,8 +1,8 @@
 DEFY CS:GO SERVER RULES
 GENERAL RULES
-1. RDM (Random Deathmatch)
-    Killing or damaging a player without a valid reason. Rdming 3 or more players or consistently rdming is considered Mass RDM and will result in either a Ban or CTban.
-    Punishment(s): 1. Slay(s) 2. Ban (TTT MassRDM) or CTban(Jailbreak Mass RDM)
+1. Alt Accounts
+      Using an alt account on our servers is prohibited. One account per player. If you are caught using an alt account you will be permanently banned on all your accounts.
+      Punishment(s): 1. Perma Ban
 
 2. Spamming
     Repeatedly using any means of communication that disturbs game play. Typing any line of text that is similar 3 times or more in chat. Playing music, soundboards, ear rape, spamming a game sound, spamming binds, door spam, etc.
@@ -13,6 +13,7 @@ GENERAL RULES
     Punishment(s): 1. Warn 2. Ban
 
 4. Trolling/Harassing
+    Acting in a manner which disrupts a game or a player’s experience.
     Targeting a player or players, usually in order to get a reaction from them. Making fun of someone's speech, race, religion, age, etc.
     Punishment(s): 1. Warn + Mute/gag 15 min 2. Ban
 
@@ -27,12 +28,12 @@ GENERAL RULES
 
 7. Ghosting
     Providing or receiving information that would give an unfair advantage. Using steam chat, discord, or any other third party chat to give an alive player information while you are dead is forbidden.
-    Punishment(s): 1. Ban
-    When playing TTT if you die in game, it usually cuts our your mic before you can say who the traitor is but if you use voice activity on discord then players will hear who you called out when they should not have known this information. The player who provided the information and the player who used the information will be banned.
+    Punishment(s): 1. Ban (2 weeks min)
+    When playing TTT if you die in game, it usually cuts out your mic before you can say who the traitor is but if you use voice activity on discord then players will hear who you called out when they should not have known this information. The player who provided the information and the player who used the information will be banned.
 
 8. Common Courtesy
     If someone asks you a reasonable request to stop then stop. If you are using a racial slur and someone says to stop then stop.
-    Punishment(s): 1. Warn + Mute/gag 15 min 2. Ban
+    Punishment(s): 1. Verbal Warning 2. Ban
 
 9. Exploiting
     Using any game exploit that gives an unfair advantage or interferes with the game mechanics/server in some way. Going to an area of the map that is not intended to be reachable. Using macros is considered exploiting.
@@ -48,7 +49,7 @@ GENERAL RULES
     Punishment(s): 1. Warn + Mute 15 min 2. Ban
 
 12. Impersonation
-      Pretending to be someone with a certain positions within the community. Using an admin's name in-game or claiming you are staff.
+      Pretending to be someone with a certain position within the community. Using an admin's name in-game or claiming you are staff.
       Punishment(s): 1. Warn 2. Ban
 
 13. Name Violations
@@ -75,76 +76,92 @@ GENERAL RULES
       Threatening to DDOS. Saying something like "I'm going to ddos the server."
       Punishment(s): 1. Warn + Ban(1 month) 2. Perma Ban
 
-18. Alt Accounts
-      Using an alt account on our servers is prohibited. One account per player. If you are caught using an alt account you will be permanently banned on all your accounts.
-      Punishment(s): 1. Perma Ban
-
 JAILBREAK RULES
 
-1. CT Violation
-    Becoming a warden without a mic.
-    Giving orders, Unless warden has given permission.
-    Opening cells without warden’s approval.
-    Camping armory, CTs must leave armory within 1 minute of the round starting.
-    Re-enter armory after leaving. Unless a T was seen inside.
-    Enter, knife, shoot, or damage a vent in anyway, unless you know a prisoner is inside or it is a Hide and Seek day.
-    Baiting (View explanation section below)
-    Giving a prisoner a weapon for any reason unless it’s a toy gun (no ammo)
-    Firing into stacked prisoners
-    Interfering in any way with last request, warden orders(talking over, shooting randomly, etc)
-    Forcing prisoner(s) to use a command.
-        !warday, !ffa, !rtv, etc.
-        Warden can force prisoner to use !lr, but prisoner picks his own lr.
-    Not assisting warden. Unless the warden gives you permission or it is a freeday
-    Participating in any prison games. Unless it is for !lr or it is a freeday.
-    Extending the round on freedays.
-    You may not give a prisoner special treatment, if you punish someone doing an action, you must punish everyone else who does it the same way.
-    Punishment(s): 1. Warn + Slay/Swap 2. 4 hour CTban
+1. Freekill
+    Killing a prisoner without a valid reason. Killing 3 or more prisoners or consistently freekilling is considered Mass Freekill and will result in a CT BAN. 
+    Punishment(s): 1. Slay(s) 2. CT Ban(Mass Freekill)
 
-2. Warden Violation
-    Order is invalid if:
-    It harms another guard
-    Prisoner has no chance of survival
-    Issuing an AFK freeze for anything other than a gun check
-    It is misleading unless playing simon says.
-    Example: Placing down a Cyan Marker and telling all prisoners to run to the blue marker is misleading and not allowed.
-    Restricting a prisoner from knifing or using voice/text chat. (Example: Saying, “Knifing is now restricted”)
-    You may not play a game that is not listed in the games section
-    Custom games are considered opinionated and may only be played if the majority of prisoners vote to play the game.
-    False Arrest
-    Guide for using the taser listed below
-    Friendly fire may only be enabled for boxing fights/knife fights.
-    Friendly fire may only be enabled with 5 prisoners or less.
-    Do not enable friendly fire randomly or for a war day.
-    Punishment(s): 1. Warn + Slay/Swap 2. 4 hour CTban
+2. Guard Violation
+    Guards must leave the armory within 1 minute of round start and may not re enter unless they know a prisoner is inside.
+    Not assisting the warden with controlling the prison. Unless it is a freeday.
+    Punishment(s): 1. Warn + Slay/Swap 2. CT Ban(4hr)
 
-
-
-3. Cheating in LR
-    You must follow the rules the prisoner sets. If you lose you must take the loss and be killed.
-    The guard and prisoner must have an equal chance of winning.
-    The prisoner must specify that they do not have rules if they don’t. Do not start an !lr and instantly kill the other player. This rule does not apply to games like Russian Roulette.
-    No healing is implied unless specified otherwise.
+3. LR Violation
+    Rules set by the prisoner must be followed unless the rule conflicts with another rule in LR Violation then the LR Violation rule overrides it.
+    The guard and prisoner must have an equal chance of winning. For example, in games like mag4mag, whoever is randomly chosen to go first goes first. The prisoner cannot tell a guard to empty the gun so they can start.
+    The prisoner must specify that they do not have extra rules if they don’t. Do not start an !lr and instantly kill the other player. (This rule does not apply to games like Russian Roulette.)
+    No healing is implied unless the prisoner allows it.
+    If you lose you must take the loss and be killed. Do not run away or try to kill the winner.
+    Guards may not interfere with any active lr.
     Punishment(s): 1. Warn + Slay 2. Ban
 
 4. Swap Violation
     Rejoining a team you were swapped off of. (Example: If an admin swaps you off guard and you rejoin guard next round.)
     Intentionally joining ct and becoming warden after you have been muted is considered a swap violation.
-    Punishment(s): 1. Warn + 2 hour CT ban 2. 4 hour CT ban
+    Punishment(s): 1. Warn + CT Ban(2hr) 2. CT Ban(4hr)
 
-5. Terrorist Mute
+5. Vent Violation
+    Enter or damage a vent in anyway, unless you know a prisoner is inside or it is a Hide and Seek day.
+    Punishment(s): 1. Warn + Slay/Swap 2. CT Ban(4hr)
+
+6. Taser Violation
+    Using your taser without a valid reason will be considered a taser violation.
+        The following are valid reasons to taze:
+            The prisoner wins a game and must wait for the others to finish.
+            They are within knifing distance to any guard or warden (does not apply on special events or last requests).
+            Remove contraband such as guns, grenades, etc.
+            They are the last non rebelling prisoner and you are the last guard alive.
+    Punishment(s): 1. Warn + Slay 2. CT Ban(4hr)
+
+7. Friendly Fire Violation
+    Friendly fire may only be enabled for boxing/knife fights and only with 5 prisoners or less. Have the prisoners separate before enabling friendly fire.
+    Punishment(s): 1. Warn + Slay 2. CT Ban(4hr)
+
+8. Baiting
+    Intentionally going within knifing distance of a prisoner.
+    Entering a prisoner designated area.
+    When can you kill a baiting guard?
+        Prisoner(s) may attempt to kill any guard that goes inside a prisoner designated area.
+        Prisoner(s) may knife while lining up shoulder to shoulder however you cannot move WASD. 
+
+If you move WASD while lined up to knife a guard that is not baiting the guard may kill you. Guard may not kill you though if you didn’t move WASD but you knifed them.
+If you are following a guard and you knife them they may shoot back and kill you if they did not intentionally go within knifing distance.
+    Punishment(s): 1. Warn + Slay 2. CT Ban(4hr)
+
+9. Terrorist Mute
     Muting prisoners for invalid reasons or long periods of time without a valid reason.
 Muting someone because you do not like them is not allowed.
-Only mute if they are interrupting orders.
-    Punishment(s): 1. Warn + Kick 2. CT ban
+    Punishment(s): 1. Warn + Kick 2. CT ban(4hr)
+
+10. Gun Planting
+    Giving any prisoner a gun without wardens approval unless it is a toy gun (no ammo).
+    Punishment(s): 1. Warn + Slay 2. CT Ban(4hr)
+
+11. Shooting into a stack
+    Spraying into a stack of prisoners. You may only fire into a stack if you have a clear shot aimed at a particular prisoner in the stack.
+    Punishment(s): 1. Warn + Slay 2. CT Ban(4hr)
+
+12. Interfering
+    Interfering with wardens orders as a guard, for example intentionally talking over, shooting randomly, opening cells before orders are given, etc.
+    Punishment(s): 1. Warn + Slay/Swap 2. CT Ban(4hr)
+
+13. Special Treatment
+    You may not give a prisoner special treatment, if you punish someone doing an action, you must punish everyone else the same way if it occurred within the same time frame. (About 30 seconds.)
+    Punishment(s): 1. Warn + Slay/Swap 2. CT Ban(4hr)
 
 JAILBREAK EXPLANATIONS
 
 Roles
-    CT(Guard): Assist the Warden in controlling all prisoners. Kill any rebels.
-    Warden: Give orders to prisoners, kill any prisoner who does not follow your orders. If their is only one CT at the beginning of a round they are the warden even if they forget to become warden with !w.
-    Deputy: Warden can appoint him to control the prisoner(s) while the Warden is off elsewhere.
-    T(Prisoner): Either follow the wardens rules to get your last request or rebel against the guards and take over the prison.
+Warden (CT): The warden issues orders and is in charge of the prison, they may kill any prisoner that does not follow the orders given. If the round begins with only one guard they are automatically the warden even if they do not claim it with !w.
+
+Deputy (CT): The deputy is second in command. The warden may appoint them at any time to give the prisoners orders temporarily. For example, if the warden decides to chase a rebel then the deputy can continue giving orders until the warden decides to take over again. If the warden dies the deputy automatically becomes the new warden of the prison.
+
+Guard (CT): Assist the warden/deputy in controlling the prison. Ensure prisoners are following orders, kill any prisoner not following them also known as a rebel. Issue a warning shot if a prisoner is delaying.
+
+You may only become the warden/deputy if you have a working microphone unless you are the last guard alive or no other guards have a mic. Any guard who does not have a microphone may be swapped to the prisoner team.
+
+Prisoner (T): Prisoners may either follow orders given by a warden for a chance at last request (!lr) or they may rebel against the guards and take over the prison.
 
 Prisoner Guidelines
 You are automatically KOS if you…
@@ -153,11 +170,21 @@ You are automatically KOS if you…
     Point any gun at a guard.
     Charge a guard with a knife or damage them.
     Claim you do not know how to play a prison game when the game has already been explained to you.
-    Kill or damage non-baiting guard.
+    Kill or damage a non-baiting guard.
     Are a rebel unless the warden pardons you.
 
+Invalid Order
+    Giving an order without being the warden or having approval from the warden.
+    It harms another guard.
+    Prisoners have no chance of survival.
+    Issuing an AFK freeze for anything other than a gun check.
+    The order is intentionally misleading unless playing Simon says. For example, placing down a cyan marker and telling all prisoners to run to the blue marker is misleading.
+    Restricting a prisoner from knifing.
+    Trying to play a game not listed in the games section. Games not listed are considered opinionated and may only be played if the majority of prisoners agree to play the game.
+    Forcing anyone to use any command unless it is !lr (Prisoner chooses the lr)
+
 Freeze
-    Cannot move at all. May move mouse to look around.
+    Cannot move at all. May move the mouse to look around.
 
 AFK Freeze
     Cannot use mouse or keyboard at all for 20 seconds except voice and text chat. AFK freeze becomes a regular freeze after 20 seconds.
@@ -174,18 +201,11 @@ Repeats
 Bomb Rush
     If a warden orders you to bomb rush an area, you must run to it, without delaying and freeze at the area specified.
 
-Take one step out
+One step
      If the order is to take one step out, you must move about one step out of your cell. You must be knifing distance of your cell door or the wall next to it, otherwise guards may kill you. Jumping out will likely get you killed as well.
 
 Prisoner Designated Area(s)
-    These are any areas that were meant for only prisoners or where the warden has ordered the prisoners to go. This includes: Prison cells, warden beacons, and any other areas the warden has designated for the prisoners.
-
-Baiting
-    Intentionally going within knifing distance of a prisoner.
-    Entering a prisoner designated area.
-    When can you kill a baiting guard?
-        Prisoner(s) may attempt to kill any guard that goes inside a prisoner designated area.
-        Prisoner(s) may knife while lining up shoulder to shoulder however you cannot move WASD, NOTE if you move WASD while lined up to knife a guard that is not baiting and guard may kill you. guard may not kill you though if you didn’t move WASD but you knifed them.
+    These are any areas that were meant for only prisoners or where the warden has ordered the prisoners to go. This includes: Prison cells, warden markers, and any other areas the warden has designated for the prisoners.
 
 Warning Shots
      All warning shots must be given below the knees. The warden does not need to give warning  shots. You may be given a warning if you…
@@ -193,18 +213,11 @@ Warning Shots
         Do not actively participate in prison games.
         Block doorways.
 
-Taser Guide
-    You may only arrest prisoners to...
-    Keep a prisoner in one area, if it is after the prisoner wins a game and must wait till others finish.
-    Freeze prisoners if they are within knifing distance to the warden or a ct (does not apply on special events or last requests).
-    Pull or put a prisoner in a specific team in a team game, the prisoners must be released in order to play the game.
-    Put prisoners into healing areas in order to heal.
-    Remove contraband such as guns, grenades, etc.
 Prison Games
-    Opinionated Games: These are games that kills prisoners based on the guards opinion. Warden must type “!refuse” before starting an opinionated game. Majority decides whether or not the warden can proceed with the opinionated game or not. Other games may be created, but here are a few of the most popular.
+    Opinionated Games: These are games that kill prisoners based on the guards opinion. Majority decides whether or not the warden can proceed with the opinionated game or not.
     Joke Day: Prisoners take turns telling jokes, each time the guards will vote whether they like it or not, when a prisoner's joke loses he dies.
     Singing/Dancing/Diving Contest: Like a joke day but each prisoner is chosen to sing, dance, dive or perform another talent.
-    Shoot or Don’t Shoot: All prisoner(s) line up on a line set by the warden, All prisoner(s) must face away from the warden and freeze. The warden will then ask prisoner(s) at random shoot or don’t shoot, while his crosshair is on a random prisoner(s) head. If the prisoner asked says shoot then the T that he is aiming at will die, and if he says don’t shoot then the game goes on and the warden picks new prisoner. prisoner(s) can only say don’t shoot 2 times in a row, then they must say shoot.
+    Shoot or Don’t Shoot: All prisoners line up on a line set by the warden, All prisoners must face away from the warden and freeze. The warden will then ask prisoners at random shoot or don’t shoot, while his crosshair is aimed at a prisoner. If the prisoner asked says shoot then the prisoner that he is aiming at will die, and if he says don’t shoot then the game goes on and the warden picks a new prisoner. Prisoners can only say don’t shoot 2 times in a row, then they must say shoot.
     Custom Games: All custom games are considered opinionated and must be voted on.
     Elimination Games: These games are mostly skill based, and are generally just used to thin the herd. Here are the most common ones:
     Simon Says:
@@ -217,15 +230,16 @@ Prison Games
     First Reaction Last Reaction: Warden will say first reaction or last reaction and then an action…
     First Reaction: First person to complete the action dies.
     Last Reaction: Last person to complete the action dies.
-     Colors: All prisoner(s) line up on a line set by the warden and take turns saying color names.
-    The T's have 5 seconds to say a color that has not been said or they are KOS.
-    Death Walk: All prisoner(s) line up on a line set by the warden, All prisoner(s) must look straight up with their flashlights turned on (Type /flashlight), Looking down is KOS. When the warden indicates to begin the prisoner(s) will crouch walk backwards until they fall off of a ledge, or when they feel that they are at the edge they stop, stand up and freeze while still looking up
-    Red Light Green Light: All prisoner(s) line up on a line set by the warden, there is a finish line further away from them. When the warden says green light all prisoner(s) are then allowed to move forward, but once the warden says red light all prisoner(s) must stop. If a prisoner doesn’t stop in time then the warden is allowed to kill the prisoner. The game goes on until the set amount of winners is reached.
-    Odd Man Out: Can only be played if there are 3 prisoner(s) remaining, the prisoner(s) form a triangle (On positions set by the warden). The warden will tell the prisoner(s) to face away from their teammates, and when the wardens says to the prisoner(s) will turn around and look at one of their teammates. Whoever has 2 prisoner(s) facing them is the odd man out and is KOS.
-    Kill Random Days: This the most efficient way to kill prisoners, and can even be used to kill rebelling prisoners. The warden will herd all non rebelling prisoners into an area and use the !kr command to randomly kill prisoners until he has the desired number of players. If the player did not die by !kr then he survives that option does not kill it just randomly selects a player. This game may only be played with 4 or less prisoners alive.
+     Colors: All prisoners line up on a line set by the warden and take turns saying color names. The T's have 5 seconds to say a color that has not been said or they are KOS.
+    Death Walk: All prisoners line up on a line set by the warden, All prisoners must look straight up with their flashlights turned on (Type /flashlight), Looking down is KOS. When the warden indicates to begin the prisoners will crouch walk backwards until they fall off of a ledge, or when they feel that they are at the edge they stop, stand up and freeze while still looking up.
+    Red Light Green Light: All prisoners line up on a line set by the warden, there is a finish line further away from them. When the warden says green light all prisoners are then allowed to move forward, but once the warden says red light all prisoners must stop. If a prisoner doesn’t stop in time or they move on red light then the warden is allowed to kill the prisoner. The game goes on until the set amount of winners is reached.
+    Odd Man Out: Can only be played if there are 3 prisoners remaining, the prisoners form a triangle (On positions set by the warden). The warden will tell the prisoners to face away from their teammates, and when the warden says turn around and look at one of their teammates. Whoever has 2 prisoners facing them is the odd man out and is KOS.
+    Kill Random: The warden must bring all non rebelling prisoners into an area and use the !kr command to randomly kill prisoners until he has the desired number of players. If the player did not die by !kr then he survives that option does not kill it just randomly selects a player. This game may only be played with 4 or less prisoners alive.
+    Boxing/Knife Fights: The warden will designate an area for the fight such as a boxing ring, warden marker, or other area. The warden will then enable friendly fire and begin a countdown to fight.
     Map Games: These are any of the games built into the map. For example: colors, jump rope, strafe jump, climb, etc. Games in this category may be played back to back as many times as the warden would like as long as you change games with the next round.
-    Event Days/Special Days
-    Event Days: These are days that allow prisoners to free roam and do whatever they want with a few restrictions, and are mostly just for fun. Once an event day is started, it does not end until the round is over, even if they warden says it’s over. You may not extend on event days. Many of the event days can be triggered by voting for them via the player menu (!menu) but the most common 2 are:
+
+Event Days/Special Days
+    Event Days: Once an event day starts, it does not end until the round is over, even if the warden says it’s over. You may not extend on event days. Many of the event days can be triggered by voting for them via the player menu (!menu) or the warden can declare a particular day such as a war day. Warden must wait 3 days (rounds) before doing the same event day.
 
      War Day: The goal is have the prisoners and guards fight to the death. Prisoners must be actively pursuing the guards at all times. This event day can be played 2 ways:
         Restricted war days:
@@ -235,7 +249,7 @@ Prison Games
             The prisoners must be given 30 seconds, which starts when the cell doors open, to break into armory and get guns. During this 30 seconds the guards will try to run as far as they can, because when the 30 seconds is up prisoners and guards may start fighting. Both prisoners and guards cannot shoot anyone during this 30 second grace period.
             Guards are not allowed to camp.
  
-     Freeday: These are days where the prisoners may do whatever they want without rebelling, if they rebel, then they may be shot. The last prisoner may have a last request if they wish, but cannot be forced to have an LR. It is automatically a freeday if:
+     Freeday: These are days where the prisoners may do whatever they want without rebelling, if they rebel, then they may be killed. The last prisoner may have a last request if they wish, but cannot be forced to have an LR. It is automatically a freeday if:
           Cells open before orders are given.
           Warden does not give orders within the first minute of the round.
           Warden dies and no guard takes over within 15 seconds.
@@ -259,9 +273,19 @@ Prison Games
           Monkeys are only allowed to right click guards.
           Guards can't kill prisoners in knifing distance.
 
+Hide and Seek: The warden will declare the day and open cells. All prisoners are given a set amount of time to hide. Guards will stay within the armory during the hide period. Afterwards the guards will leave armory and search for the prisoners once they are found they will be killed. The last prisoner gets !lr. 
+
+Misc
+    The warden may choose to be strict, for example if the warden says “Shift walk into the red marker and freeze” and someone begins to bhop to the marker the warden may kill that player as the order was to Shift walk. Bhopping is not the same as shift walking. The warden does not have to specify don’t do this or that. Do what the warden says and nothing else and you will likely be able to !lr if you are the last prisoner.
+    If the warden does not use the command /nolr on a specific day such as warday and a prisoner initiates lr that prisoner may get lr that day.
+
 TTT RULES
 
-1. False KOS
+1. RDM (Random Deathmatch)
+    Killing or damaging a player without a valid reason. Rdming 3 or more players or consistently rdming is considered Mass RDM and will result in a ban.
+    Punishment(s): 1. Slay(s) 2. Ban (Mass RDM)
+
+2. False KOS
     Calling KOS on someone without a valid reason or without seeing them do anything Traitorous. 
     Calling KOS with only a partial name in order to create suspicion on another player. If you die mid kos that is fine.
     Calling KOS on any live player as a Traitor. Unless a KOS was already called on that living player. (NOTE:You can call a KOS on your t-buddy if he has already been KOSED but that does not mean you should in every case. This also means that only the first player to call the KOS would be proven if the KOSED player turned out to be a Traitor.)
@@ -269,7 +293,7 @@ TTT RULES
     Calling KOS on a certain area of the map or claiming an area. (You cannot say “KOS the bathroom or any other area of a map.”)
 Punishment(s): 1. Warn + Slay(s) 2. Ban
 
-2. T-Baiting
+3. T-Baiting
     Doing anything that is Traitorous as an Innocent or Detective in order to trick or purposely get a player to shoot or kill you.
     Verbal T-Bait is not allowed. Example: Claiming you are a Traitor when you are not is considered T-Baiting.
     Shooting in the direction of a player 
@@ -278,12 +302,12 @@ Punishment(s): 1. Warn + Slay(s) 2. Ban
     Example: Shooting Towards players, throwing a incendiary/molotov/hegrenade towards players.
     Punishment(s): 1. Warn + Slay(s) 2. Ban
 
-3. Karma Manipulation
+4. Karma Manipulation
     Doing anything intentionally that would cause someone to lose karma.
     Example: Someone throws a molotov and you purposely run into it in order to make them lose karma.
     Punishment(s): 1. Warn + Slay(s) 2. Ban
 
-4. Unreasonable Detective Order
+5. Unreasonable Detective Order
 
     Any order a Detective gives that does not follow the parameters listed below will be considered unreasonable.
     Orders must be given through voice chat.
@@ -294,29 +318,36 @@ Punishment(s): 1. Warn + Slay(s) 2. Ban
         Must give someone that is nearby 3 warnings and sufficient time between each warning before calling a KOS on them or killing them for failing to comply with a reasonable order.
     Punishment(s): 1. Warn + Slay(s) 2.  Ban
 
-5. Traitor Room Violation
+6. Traitor Room Violation
     Entering a Traitor room as an Innocent/Detective. Do not follow a Traitor inside even if you think you can kill them.
     Opening the door from far.
     Opening it to let an Innocent/Detective inside.
      Punishment(s): 1. Warn + Slay(s) 2. Ban
 
-6. Revealing T-Buddy
+7. Revealing T-Buddy
     Telling Detectives/Innocents who the Traitors are.
     Intentionally shooting at other traitors.
-    Tasing a t-buddy, including after a KOS has been called. 
+    Tasing a t-buddy, including after a KOS has been called.
+    Using a Traitor trap/any other item which can kill other T’s.
+        Always check inside/near a trap for other t’s which are nearby.
+        When using a C4, alert your t buddies with traitor chat (same button as team chat) and tell them its location.
      Punishment(s): 1. Warn + Slay(s) 2. Ban
 
-7. Killing AFK Player(s)
+8. Killing AFK Player(s)
     Innocent/Detective cannot kill an AFK player until overtime without valid reason (tasing and finding them as a t, etc.).
     Killing an AFK player is done at your own risk. In most cases you should let an admin move them to spec. (You may wind up losing karma)
     Punishment(s): 1. Warn + Slay(s) 2. Ban
 
-8. Prop Violation
+9. Prop Violation
     Do not prop surf.
     Do not intentionally prop push, kill, or block other players unless you are a traitor.
     Randomly damaging players with barrels is considered prop kill.
     Example: Knocking somebody off of a ledge with a barrel.
     Punishment(s): 1. Warn + Slay(s) 2. Ban
+
+10. False SUS
+    Sussing for any invalid reason which does not connect the sussed person to a traitorous act.
+    Punishment(s): 1.Warn + Mute/gag 15 min 2. Ban
 
 TTT EXPLANATIONS
 
@@ -372,10 +403,24 @@ When can you kill on sight?
     You have seen a player do a Traitorous Act. (In some cases when you are not in direct danger it may be better to SUS for a Traitorous act.)
 
 SUS (Suspicion)
-    SUS and HIGH SUS both mean the same thing. Suspicion is called when you see a player do something that is borderline traitorous or can reasonably connect them to a traitorous act, but you do not have enough proof to kill them or call a KOS. Suspicion does not mean KOS at 2:00 (overtime) unless you have obtained more information that proves that the player is a Traitor. Calling Suspicion without seeing a player do anything that would be considered traitorous behavior, just to kill them at 2:00 is considered RDM, even if that player ends up being a traitor. When you call sus it must be accompanied by a valid reason.
-
+    SUS and HIGH SUS both mean the same thing. Suspicion is called when you see a player do something that is borderline traitorous or can reasonably connect them to a traitorous act, but you do not have enough proof to kill them or call a KOS. Suspicion does not mean KOS at 2:00 (overtime). Calling Suspicion without seeing a player do anything that would be considered traitorous behavior, just to kill them at 2:00 is considered RDM, even if that player ends up being a traitor. When you call sus it must be accompanied by a valid reason.
+    Some reasons to sus someone may be:
+        Being in a location where a traitorous act occurred
+        Weapon used
+        They are wearing cosmetics which were seen on someone committing traitorous acts
 Live Checks
     When someone calls a "Live Check", if you are innocent you should respond. Otherwise you may be sus. You can only call live checks during overtime.
+
+Logic
+    Limited forms of logic are allowed in order to KOS a traitor or to “prove” an innocent. 
+The only allowed forms of logic are:
+        Elimination: Finding that all other players besides the traitors are proven. The player who calls the KOS must see with their own eyes or use the detective’s word in order to use this method. 
+            Example: 4 players are alive, 1 detective, 2 innocents, and 1 traitor. The detective sees that one of the innocents went into the t-tester and tells the other players, this leads to the other innocent to be able to KOS the traitor as they are the only possible traitor.
+        1 Entrance Room: If someone dies in a room with only 2 people inside and there is only one entrance/exit you may KOS the surviving player.
+        Taser: Tasing an innocent or traitor will reveal their role in chat. 
+        DNA Scanner: The detective finds the killer of someone which can either be used to kos someone for killing an innocent or prove someone for killing a traitor.
+        Traitor Tester: Seeing someone being proven to be a certain role by a t-tester or detective says that someone went into the tester.
+        Witnessing someone killing a traitor: If you see someone kill a traitor or if the detective says that someone killed a traitor you may use this information to use elimination to kill a T.
 
 Overtime
     Overtime begins when there is less than 2 minutes remaining in the round. During overtime you may kill players for suspicion, only if you are positive that they are the Traitor. Remember, your karma is affected if you kill an innocent. In order to kill a player for suspicion you must be prepared to explain why you are suspicious of that player if asked. Explaining suspicion during the round will allow other players to decide whether or not they want to kill that player in overtime.
