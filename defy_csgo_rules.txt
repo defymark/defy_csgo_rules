@@ -80,6 +80,10 @@ GENERAL RULES
       Threatening to DDOS. Saying something like "I'm going to ddos the server."
       Punishment(s): 1. Warn + Ban(1 month) 2. Perma Ban
 
+19. Doxxing
+      Revealing the personal information of another player or member of the community.
+      Punishment(s): 1. Warn + Ban 2. Perma Ban
+
 JAILBREAK RULES
 
 1. Freekill
@@ -318,7 +322,7 @@ Punishment(s): 1. Warn + Slay(s) 2. Ban
     Request someone nearby to freeze so you can taze them and only if you will follow through with the taze.(You may pull out your tazer and follow someone but you cannot ask them to freeze unless you will end up tazing them.)
         Request someone to ID a body that they are near.
         Request someone near the Traitor Tester to be tested.
-        Must give someone that is nearby 3 warnings and sufficient time between each warning before calling a KOS on them or killing them for failing to comply with a reasonable order.
+        Must give someone that is nearby 3 warnings and sufficient time between each warning before calling a KOS on them or killing them for failing to comply with a reasonable order. If a player complies then stops complying they may be killed or KOS’d. This may include moving before being tased or leaving t-tester before they are tested.
     Punishment(s): 1. Warn + Slay(s) 2.  Ban
 
 6. Traitor Room Violation
@@ -350,7 +354,7 @@ Punishment(s): 1. Warn + Slay(s) 2. Ban
 
 10. False SUS
     Sussing for any invalid reason which does not connect the sussed person to a traitorous act.
-    Punishment(s): 1.Warn + Mute/gag 15 min 2. Ban
+    Punishment(s): 1.Warn + Slay(s) 2. Ban
 
 TTT EXPLANATIONS
 
