@@ -17,42 +17,46 @@ GENERAL RULES
     Targeting a player or players, usually in order to get a reaction from them. Making fun of someone's speech, race, religion, age, etc.
     Punishment(s): 1. Warn + Mute/gag 15 min 2. Ban
 
-5. Mini-Modding
+5. Discrimination
+      Using any discriminatory slurs, hate symbols, etc.
+      Punishment(s): 1. Warn + Mute/Gag 15 minutes or Kick 2. Ban
+
+6. Mini-Modding
     Telling admins to take any sort of action on another player. Leave it to our staff team to enforce the rules on players. Reporting a player or telling an admin you were freekilled/rdm is fine. Telling an admin to slay a player for freekill. Constantly telling players rules or telling them to read the rules.
     Punishment(s): 1. Warn + Mute/Gag 15 minutes 2. Mute/gag/silence 60 minutes
     Arguing about a particular rule with a player, staff, or an interpretation of a rule will be considered mini-modding. If you have a disagreement about a rule then make a forum post.
 
-6. Avoiding Punishment
+7. Avoiding Punishment
     Knowingly leaving the server to avoid a punishment from an admin. Randomly killing a player then leaving the server. Changing your name to communicate to players while muted/gagged.
     Punishment(s): 1. Ban
 
-7. Ghosting
+8. Ghosting
     Providing or receiving information that would give an unfair advantage. Using steam chat, discord, or any other third party chat to give an alive player information while you are dead is forbidden.
     Punishment(s): 1. Ban (2 weeks min)
     When playing TTT if you die in game, it usually cuts out your mic before you can say who the traitor is but if you use voice activity on discord then players will hear who you called out when they should not have known this information. The player who provided the information and the player who used the information will be banned.
 
-8. Common Courtesy
+9. Common Courtesy
     If someone asks you a reasonable request to stop then stop. If you are using a racial slur and someone says to stop then stop.
     Punishment(s): 1. Verbal Warning 2. Ban
 
-9. Exploiting
+10. Exploiting
     Using any game exploit that gives an unfair advantage or interferes with the game mechanics/server in some way. Going to an area of the map that is not intended to be reachable. Using macros is considered exploiting.
     Punishment(s): 1. Warn + Slay 2. Ban
 
-10. Delaying
+11. Delaying
     Doing anything (intentionally) that would make the wait time for dead players longer. Staying in an area for longer than 45 seconds is delaying. Camping, going afk, not actively completing your role.
     Punishment(s): 1. Warn + Slay 2.  Slay(s)
     A guard who stays in an area to watch a prisoner is not camping.
 
-11. Voice Changer
+12. Voice Changer
     Using any software to alter your voice. Intentionally talking with a different pitch to annoy players will also be considered using a voice changer.
     Punishment(s): 1. Warn + Mute 15 min 2. Ban
 
-12. Impersonation
+13. Impersonation
       Pretending to be someone with a certain position within the community. Using an admin's name in-game or claiming you are staff.
       Punishment(s): 1. Warn 2. Ban
 
-13. Name Violations
+14. Name Violations
     Using a name that violates one or more of the following:
         Name that entirely compromised of non English characters
         Name that could be considered offensive, racist, etc.
@@ -60,19 +64,19 @@ GENERAL RULES
         Using a similar name as another player in order to confuse others.
     Punishment(s): 1. Warn + Rename 2. Ban
 
-14. Loopholes
+15. Loopholes
     Using a loophole in the wording of a rule to avoid punishment. Example: Camping in a corner for 30 seconds instead of 45 seconds.
     Punishment(s): 1. Warn + Kick 2.  Kick or Ban
 
-15. Farming
+16. Farming
       Farming of any in-game credits or points. Using scripts or macros to avoid the afk detection system.
       Punishment(s): 1. Warn + Credits/items reset 2. Credits/items reset + Ban
 
-16. Hacking
+17. Hacking
     Using any third party software that gives you an unfair advantage. 
     Punishment(s): 1. Perma ban
 
-17. DDOS Threat(s)
+18. DDOS Threat(s)
       Threatening to DDOS. Saying something like "I'm going to ddos the server."
       Punishment(s): 1. Warn + Ban(1 month) 2. Perma Ban
 
@@ -308,7 +312,6 @@ Punishment(s): 1. Warn + Slay(s) 2. Ban
     Punishment(s): 1. Warn + Slay(s) 2. Ban
 
 5. Unreasonable Detective Order
-
     Any order a Detective gives that does not follow the parameters listed below will be considered unreasonable.
     Orders must be given through voice chat.
     Reasonable Orders:
@@ -320,13 +323,13 @@ Punishment(s): 1. Warn + Slay(s) 2. Ban
 
 6. Traitor Room Violation
     Entering a Traitor room as an Innocent/Detective. Do not follow a Traitor inside even if you think you can kill them.
-    Opening the door from far.
     Opening it to let an Innocent/Detective inside.
      Punishment(s): 1. Warn + Slay(s) 2. Ban
 
-7. Revealing T-Buddy
+7. Revealing/Killing T-Buddy
     Telling Detectives/Innocents who the Traitors are.
     Intentionally shooting at other traitors.
+    Sussing a T-Buddy
     Tasing a t-buddy, including after a KOS has been called.
     Using a Traitor trap/any other item which can kill other T’s.
         Always check inside/near a trap for other t’s which are nearby.
@@ -391,7 +394,7 @@ Karma
         Killing a traitor as a detective: +4 karma
 
 KOS
-    KOS stands for kill on sight, it is the act of damaging or killing someone as soon as you see them. If you call a KOS then you must be prepared and willing to kill that player otherwise it is a false KOS. If someone said, "KOS Hoodini!" then you can kill Hoodini if you see him. You do not need to call a KOS before killing a player, however it is encouraged to call a KOS so that others can be alerted in the event that you fail to kill the suspected Traitor. When you call a KOS you must explain why you are calling a KOS if you are not in danger or in direct contact with the suspected Traitor. Otherwise you must explain why the KOS was called afterwards. You should only KOS or Call a KOS on someone if you are certain they have done something below which warrants a KOS or have seen them do at least two Traitorous Acts. If you see a traitorous/kosable act you must call KOS or kill them within 30 seconds.
+    KOS stands for kill on sight, it is the act of damaging or killing someone as soon as you see them. If you call a KOS then you must be prepared and willing to kill that player otherwise it is a false KOS. If someone said, "KOS Hoodini!" then you can kill Hoodini if you see him. You do not need to call a KOS before killing a player, however it is encouraged to call a KOS so that others can be alerted in the event that you fail to kill the suspected Traitor. When you call a KOS you must explain why you are calling a KOS if you are not in danger or in direct contact with the suspected Traitor. Otherwise you must explain why the KOS was called afterwards. You should only KOS or Call a KOS on someone if you are certain they have done something below which warrants a KOS or have seen them do at least two Traitorous Acts. If you see a traitorous/kosable act you must call KOS or kill them within 30 seconds otherwise you may only sus them. You are never forced to kill a KOS player (unless you called the KOS) if you believe they are innocent as it may affect your karma, however be prepared to explain why.
 When can you kill on sight?
     Someone called a KOS on them.
     They shot towards you or another player.
@@ -421,6 +424,7 @@ The only allowed forms of logic are:
         DNA Scanner: The detective finds the killer of someone which can either be used to kos someone for killing an innocent or prove someone for killing a traitor.
         Traitor Tester: Seeing someone being proven to be a certain role by a t-tester or detective says that someone went into the tester.
         Witnessing someone killing a traitor: If you see someone kill a traitor or if the detective says that someone killed a traitor you may use this information to use elimination to kill a T.
+        Seeing someone take damage from a t item: If you see someone take damage from a T item they could be considered proven innocent as traitors would not take damage. This could include hurt station, poison smoke, etc. This does not include C4 as they can damage all players.
 
 Overtime
     Overtime begins when there is less than 2 minutes remaining in the round. During overtime you may kill players for suspicion, only if you are positive that they are the Traitor. Remember, your karma is affected if you kill an innocent. In order to kill a player for suspicion you must be prepared to explain why you are suspicious of that player if asked. Explaining suspicion during the round will allow other players to decide whether or not they want to kill that player in overtime.
