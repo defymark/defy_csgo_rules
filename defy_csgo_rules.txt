@@ -84,6 +84,10 @@ GENERAL RULES
       Revealing the personal information of another player or member of the community.
       Punishment(s): 1. Warn + Ban 2. Perma Ban
 
+20. Providing a false statement
+      Knowingly providing a false statement to an admin.
+      Punishment(s): Double the normal amount of slays
+
 JAILBREAK RULES
 
 1. Freekill
@@ -91,13 +95,12 @@ JAILBREAK RULES
     Punishment(s): 1. Slay(s) 2. CT Ban(Mass Freekill)
 
 2. Guard Violation
-    Guards must leave the armory within 1 minute of round start and may not re enter unless they know a prisoner is inside.
     Not assisting the warden with controlling the prison. Unless it is a freeday.
     Punishment(s): 1. Warn + Slay/Swap 2. CT Ban(4hr)
 
 3. LR Violation
     Rules set by the prisoner must be followed unless the rule conflicts with another rule in LR Violation then the LR Violation rule overrides it.
-    The guard and prisoner must have an equal chance of winning. For example, in games like mag4mag, whoever is randomly chosen to go first goes first. The prisoner cannot tell a guard to empty the gun so they can start.
+    The guard and prisoner must have an equal chance of winning. For example, in games like mag4mag, whoever is randomly chosen to go first goes first. The prisoner cannot tell a guard to empty the gun so they can start. Furthermore if a prisoner would like to do s4s or mag4mag in close proximity they must specify the location prior to starting that kind of !lr.
     The prisoner must specify that they do not have extra rules if they don’t. Do not start an !lr and instantly kill the other player. (This rule does not apply to games like Russian Roulette.)
     No healing is implied unless the prisoner allows it.
     If you lose you must take the loss and be killed. Do not run away or try to kill the winner.
@@ -105,12 +108,12 @@ JAILBREAK RULES
     Punishment(s): 1. Warn + Slay 2. Ban
 
 4. Swap Violation
-    Rejoining a team you were swapped off of. (Example: If an admin swaps you off guard and you rejoin guard next round.)
+    Rejoining a team you were swapped off of. (Example: If an admin swaps you off guard and you rejoin guard next round. Wait at least until the next map before joining the guards team.)
     Intentionally joining ct and becoming warden after you have been muted is considered a swap violation.
     Punishment(s): 1. Warn + CT Ban(2hr) 2. CT Ban(4hr)
 
 5. Vent Violation
-    Enter or damage a vent in anyway, unless you know a prisoner is inside or it is a Hide and Seek day.
+    Damage or open a vent while a prisoner is in close proximity to the vent.
     Punishment(s): 1. Warn + Slay/Swap 2. CT Ban(4hr)
 
 6. Taser Violation
@@ -143,12 +146,12 @@ Muting someone because you do not like them is not allowed.
     Punishment(s): 1. Warn + Kick 2. CT ban(4hr)
 
 10. Gun Planting
-    Giving any prisoner a gun without wardens approval unless it is a toy gun (no ammo).
+    Giving any prisoner a gun without wardens approval.
     Punishment(s): 1. Warn + Slay 2. CT Ban(4hr)
 
-11. Shooting into a stack
-    Spraying into a stack of prisoners. You may only fire into a stack if you have a clear shot aimed at a particular prisoner in the stack.
-    Punishment(s): 1. Warn + Slay 2. CT Ban(4hr)
+11. Shooting in a stack
+    Prisoner(s) may not shoot from inside of a stack or use a stack as cover while shooting at guards. Guards cannot shoot into a stack they must ask the stack to disperse in order to kill the offender, prisoners may not use this opportunity to rebel. 
+    Punishment(s): 1. Warn + Slay 2. Ban
 
 12. Interfering
     Interfering with wardens orders as a guard, for example intentionally talking over, shooting randomly, opening cells before orders are given, etc.
@@ -165,7 +168,7 @@ Warden (CT): The warden issues orders and is in charge of the prison, they may k
 
 Deputy (CT): The deputy is second in command. The warden may appoint them at any time to give the prisoners orders temporarily. For example, if the warden decides to chase a rebel then the deputy can continue giving orders until the warden decides to take over again. If the warden dies the deputy automatically becomes the new warden of the prison.
 
-Guard (CT): Assist the warden/deputy in controlling the prison. Ensure prisoners are following orders, kill any prisoner not following them also known as a rebel. Issue a warning shot if a prisoner is delaying.
+Guard (CT): Assist the warden/deputy in controlling the prison. Ensure prisoners are following orders, kill any prisoner not following them also known as a rebel. Issue a warning shot if a prisoner is delaying. Guards must give prisoners at least 3 seconds to comply with an order unless they are intentionally rebelling. A prisoner who keeps taking 3 seconds to comply with new orders may be killed for intentionally detouring/delaying.
 
 You may only become the warden/deputy if you have a working microphone unless you are the last guard alive or no other guards have a mic. Any guard who does not have a microphone may be swapped to the prisoner team.
 
@@ -176,10 +179,10 @@ You are automatically KOS if you…
     Enter restricted areas. (Armory, Vents, Teleporters, Catwalks, guard Areas, and secrets. Unless specified otherwise by the Warden.)
     Are still AFK after a guard does an afk check.
     Point any gun at a guard.
-    Charge a guard with a knife or damage them.
+    Charge a guard with a knife or damage them. Prisoners should always keep their distance around guards. This includes while following a guard. For example if a prisoner(s) can see that a guard is about to be obstructed the leading prisoner(s) should stop and ensure that the distance is kept. Otherwise the guard may think you are charging them and may kill you.
     Claim you do not know how to play a prison game when the game has already been explained to you.
     Kill or damage a non-baiting guard.
-    Are a rebel unless the warden pardons you.
+    Are a rebel unless the warden pardons you. (RED = dead unless pardoned by the warden or the warden gave an order which caused you to become red.)
 
 Invalid Order
     Giving an order without being the warden or having approval from the warden.
@@ -190,6 +193,9 @@ Invalid Order
     Restricting a prisoner from knifing.
     Trying to play a game not listed in the games section. Games not listed are considered opinionated and may only be played if the majority of prisoners agree to play the game.
     Forcing anyone to use any command unless it is !lr (Prisoner chooses the lr)
+
+Last Guard
+    Last guard is enabled when the round begins with at least 3 guards but is not activated until only one guard remains that activates it by typing !lg or !lgr. Last guard must try and kill all prisoners except the last prisoner alive unless they are rebelling.
 
 Freeze
     Cannot move at all. May move the mouse to look around.
@@ -229,7 +235,7 @@ Prison Games
     Custom Games: All custom games are considered opinionated and must be voted on.
     Elimination Games: These games are mostly skill based, and are generally just used to thin the herd. Here are the most common ones:
     Simon Says:
-    To begin playing Simon says, Simon must say "Simon says I am Simon, Simon says we are now playing Simon says."
+    To begin playing Simon says, Simon must say something along the lines of "Simon says I am Simon, Simon says we are now playing Simon says." It does not matter how a warden says it as long as the order is clear that the game has started or the game has ended.
     Prisoners must only do the order that Simon says until the next Simon Says order is given.
     Prisoner's must not do any actions that Simon did not issue.
     Warden CANNOT begin playing Simon says at the beginning of the round. Simon Says can only begin once prisoners are at a prisoner designated area.
@@ -423,7 +429,6 @@ Logic
 The only allowed forms of logic are:
         Elimination: Finding that all other players besides the traitors are proven. The player who calls the KOS must see with their own eyes or use the detective’s word in order to use this method. 
             Example: 4 players are alive, 1 detective, 2 innocents, and 1 traitor. The detective sees that one of the innocents went into the t-tester and tells the other players, this leads to the other innocent to be able to KOS the traitor as they are the only possible traitor.
-        1 Entrance Room: If someone dies in a room with only 2 people inside and there is only one entrance/exit you may KOS the surviving player.
         Taser: Tasing an innocent or traitor will reveal their role in chat. 
         DNA Scanner: The detective finds the killer of someone which can either be used to kos someone for killing an innocent or prove someone for killing a traitor.
         Traitor Tester: Seeing someone being proven to be a certain role by a t-tester or detective says that someone went into the tester.
