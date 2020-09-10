@@ -1,7 +1,7 @@
 DEFY CS:GO SERVER RULES
 GENERAL RULES
 1. RDM (Random Deathmatch)
-    Killing or damaging a player without a valid reason. Killing 3 or more players is considered Mass RDM and will result in either a Ban or CTban.
+    Killing or damaging a player without a valid reason. Rdming 3 or more players or consistently rdming is considered Mass RDM and will result in either a Ban or CTban.
     Punishment(s): 1. Slay(s) 2. Ban (TTT MassRDM) or CTban(Jailbreak Mass RDM)
 
 2. Spamming
@@ -313,7 +313,7 @@ Punishment(s): 1. Warn + Slay(s) 2. Ban
 
 8. Prop Violation
     Do not prop surf.
-    Do not prop push, kill, or block other players unless you are a traitor.
+    Do not intentionally prop push, kill, or block other players unless you are a traitor.
     Randomly damaging players with barrels is considered prop kill.
     Example: Knocking somebody off of a ledge with a barrel.
     Punishment(s): 1. Warn + Slay(s) 2. Ban
@@ -365,14 +365,14 @@ When can you kill on sight?
     Someone called a KOS on them.
     They shot towards you or another player.
     They killed an innocent. (When you see someone kill another player, wait/ask them to ID the body first. They may have just killed a Traitor. If they don't ID the body they are likely a Traitor and you can kill them.)
-    The detective has given a reasonable order and the player has failed to comply after 3 warnings.
+    The detective has given a reasonable order and the player has failed to comply after 3 warnings. (The detective calling this order is the ONLY person who can call a kos)
     They are entering or leaving a Traitor only area (Traitor Rooms)
     They are using a Traitor weapon/ability. Example: C4, Hurt Station, Turret, One hit knife secret, flamethrower, Heavy, any other item found exclusively in T rooms, etc.
     They are standing next to and see someone who is shooting or kosed and they are not killing them.
     You have seen a player do a Traitorous Act. (In some cases when you are not in direct danger it may be better to SUS for a Traitorous act.)
 
 SUS (Suspicion)
-    SUS and HIGH SUS both mean the same thing. Suspicion is called when you see a player do something that is borderline traitorous or can reasonably connect them to a traitorous act, but you do not have enough proof to kill them or call a KOS. Suspicion does not mean KOS at 2:00 (overtime) unless you have obtained more information that proves that the player is a Traitor. Calling Suspicion without seeing a player do anything that would be considered traitorous behavior, just to kill them at 2:00 is considered RDM, even if that player ends up being a traitor. When you call sus it must be accompanied by a valid reason, otherwise it is invalid.
+    SUS and HIGH SUS both mean the same thing. Suspicion is called when you see a player do something that is borderline traitorous or can reasonably connect them to a traitorous act, but you do not have enough proof to kill them or call a KOS. Suspicion does not mean KOS at 2:00 (overtime) unless you have obtained more information that proves that the player is a Traitor. Calling Suspicion without seeing a player do anything that would be considered traitorous behavior, just to kill them at 2:00 is considered RDM, even if that player ends up being a traitor. When you call sus it must be accompanied by a valid reason.
 
 Live Checks
     When someone calls a "Live Check", if you are innocent you should respond. Otherwise you may be sus. You can only call live checks during overtime.
@@ -384,7 +384,7 @@ Misc
     Type /menu to purchase items from the Traitor Shop
     Taser does not kill players, it identifies them.
     If someone activates the jihad you may kill them only if you are sure they activated it.
-    If someone is shooting through a wall you may shoot back, but only if you’re certain that there is only one person in that room, except t-rooms which only t’s should be inside.
+    If someone is shooting through a wall you may shoot back, but only for 3 seconds after they stop shooting, besides walls which lead to t-rooms which should only contain traitors.
     Verbal t baiting, saying things like "I'm the traitor" is not kosable.
         Players may sus and kill you in overtime for verbal t bait.
 
