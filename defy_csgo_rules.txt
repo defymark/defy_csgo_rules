@@ -296,24 +296,21 @@ Misc
 TTT RULES
 
 1. RDM (Random Deathmatch)
-    Killing or damaging a player without a valid reason. Rdming 3 or more players or consistently rdming is considered Mass RDM and will result in a ban.
+    Killing or damaging a player without a valid reason. Crossfire will not count as RDM. RDMing someone as revenge for an action they took will be punished twice as hard. Rdming 3 or more players or consistently rdming is considered Mass RDM and will result in a ban.
     Punishment(s): 1. Slay(s) 2. Ban (Mass RDM)
 
 2. False KOS
-    Calling KOS on someone without a valid reason or without seeing them do anything Traitorous. 
-    Calling KOS with only a partial name in order to create suspicion on another player. If you die mid kos that is fine.
-    Calling KOS on any live player as a Traitor. Unless a KOS was already called on that living player. (NOTE:You can call a KOS on your t-buddy if he has already been KOSED but that does not mean you should in every case. This also means that only the first player to call the KOS would be proven if the KOSED player turned out to be a Traitor.)
-    Calling a KOS based on Player Models. (You cannot say “KOS the banana” as more than one player can have that model.)
-    Calling KOS on a certain area of the map or claiming an area. (You cannot say “KOS the bathroom or any other area of a map.”)
-Punishment(s): 1. Warn + Slay(s) 2. Ban
+    Calling the first KOS on someone without a valid reason (a valid reason would be seeing them commit a traitorous act or using the limited forms of logic we allow) or against a live player as a traitor. 
+    Invalid reasons include: KOSing based on cosmetics, being in an area of the map (excluding t-rooms/t-only areas), KOSing without seeing a traitorous act committed.
+    Baiting a KOS using partial names will also be considered False KOS (calling KOS Defy while multiple tag wearing members are on is not a valid KOS). If you die when calling a KOS that is fine.
+    False KOSing may contribute to a ban for mass rdm. 
+Punishment(s): 1. Slay(s) 2. Ban (Mass RDM)
 
 3. T-Baiting
-    Doing anything that is Traitorous as an Innocent or Detective in order to trick or purposely get a player to shoot or kill you.
-    Verbal T-Bait is not allowed. Example: Claiming you are a Traitor when you are not is considered T-Baiting.
-    Shooting in the direction of a player 
-    Shooting while close to another player without valid reason (breaking a box to get it out of the way, breaking glass to enter a place, etc. Must shoot away from people.)
-    Shooting into a wall which may have players on the other side.
-    Example: Shooting Towards players, throwing a incendiary/molotov/hegrenade towards players.
+    Doing or saying anything that is Traitorous as an Innocent or Detective in order to trick or purposely get a player to shoot or kill you.
+        This may include: shooting or throwing a grenade in a players direction or while near players without valid reason.
+
+    
     Punishment(s): 1. Warn + Slay(s) 2. Ban
 
 4. Karma Manipulation
@@ -322,13 +319,7 @@ Punishment(s): 1. Warn + Slay(s) 2. Ban
     Punishment(s): 1. Warn + Slay(s) 2. Ban
 
 5. Unreasonable Detective Order
-    Any order a Detective gives that does not follow the parameters listed below will be considered unreasonable.
-    Orders must be given through voice chat.
-    Reasonable Orders:
-    Request someone nearby to freeze so you can taze them and only if you will follow through with the taze.(You may pull out your tazer and follow someone but you cannot ask them to freeze unless you will end up tazing them.)
-        Request someone to ID a body that they are near.
-        Request someone near the Traitor Tester to be tested.
-        Must give someone that is nearby 3 warnings and sufficient time between each warning before calling a KOS on them or killing them for failing to comply with a reasonable order. If a player complies then stops complying they may be killed or KOS’d. This may include moving before being tased or leaving t-tester before they are tested.
+    As a Detective you may give orders to other players in order to detect if they are a traitor. In order to you must be within a reasonable distance, provide three warnings to comply, and see the player and their name for at least the first warning. If they fail to follow this order the detective who called the order may KOS them. The orders a detective may make are to freeze with their knife out in order to taze this player (you must have an unlocked taser and be willing to follow through with the taze), to get into a t tester provided they are near it, and to id a nearby body. 
     Punishment(s): 1. Warn + Slay(s) 2.  Ban
 
 6. Traitor Room Violation
@@ -337,29 +328,22 @@ Punishment(s): 1. Warn + Slay(s) 2. Ban
      Punishment(s): 1. Warn + Slay(s) 2. Ban
 
 7. Revealing/Killing T-Buddy
-    Telling Detectives/Innocents who the Traitors are.
-    Intentionally shooting at other traitors.
-    Sussing a T-Buddy
-    Tasing a t-buddy, including after a KOS has been called.
-    Using a Traitor trap/any other item which can kill other T’s.
-        Always check inside/near a trap for other t’s which are nearby.
-        When using a C4, alert your t buddies with traitor chat (same button as team chat) and tell them its location.
+    Doing anything that would kill a t buddy or reveal their role to non-t’s. This includes sussing or tazing t-buddies, being the first to KOS them, activating t traps on them, or shooting them.
+    
      Punishment(s): 1. Warn + Slay(s) 2. Ban
 
 8. Killing AFK Player(s)
     Innocent/Detective cannot kill an AFK player until overtime without valid reason (tasing and finding them as a t, etc.).
     Killing an AFK player is done at your own risk. In most cases you should let an admin move them to spec. (You may wind up losing karma)
-    Punishment(s): 1. Warn + Slay(s) 2. Ban
+    Punishment(s): 1. Slay(s) 2. Ban (Mass RDM)
 
 9. Prop Violation
-    Do not prop surf.
-    Do not intentionally prop push, kill, or block other players unless you are a traitor.
-    Randomly damaging players with barrels is considered prop kill.
-    Example: Knocking somebody off of a ledge with a barrel.
+    Using props to rdm, to block off areas, or to reach otherwise unreachable areas via surfing.
+    
     Punishment(s): 1. Warn + Slay(s) 2. Ban
 
 10. False SUS
-    Sussing for any invalid reason which does not connect the sussed person to a traitorous act.
+    Sussing for any  reason which does not connect the sussed person to a traitorous act or not providing a reason for the sus (dying before providing a reason is okay).
     Punishment(s): 1.Warn + Slay(s) 2. Ban
 
 TTT EXPLANATIONS
@@ -387,9 +371,7 @@ Traitorous Acts
     Look at the KOS section below to see what you can KOS someone for. When you see someone do a Traitorous act you should call SUS on them if you cannot KOS them for that.
     *If you see someone commit a traitorous act you must call KOS or kill them within 30 seconds, otherwise you may only sus them.
 
-RDM
-    RDM stands for Random Deathmatch. RDM is when you damage or kill any player while being an innocent or detective without a valid reason. If you kill someone in crossfire it is not RDM.
-    Note: Admins will make the final decision on whether a given scenario is RDM or not. RDM will result in two round slays per RDM or 4 slays for revenge RDM. Mass RDM, which is rdming 3 or more players in a round, will result in a ban.
+
 
 Karma
     Karma is a reputation system. If you kill someone who you aren’t supposed to, then you may lose karma. Everyone starts off at 90 karma,  you have a max of 100, and if you reach 50 or below, then you will automatically be banned for 1 week. Karma rewards and deductions are given for these actions:
@@ -427,7 +409,7 @@ Live Checks
 Logic
     Limited forms of logic are allowed in order to KOS a traitor or to “prove” an innocent. 
 The only allowed forms of logic are:
-        Elimination: Finding that all other players besides the traitors are proven. The player who calls the KOS must see with their own eyes or use the detective’s word in order to use this method. 
+        Elimination: Finding that all other players besides the traitors are proven. The player who calls the KOS must see that everyone else is proven with their own eyes in order to use this method. 
             Example: 4 players are alive, 1 detective, 2 innocents, and 1 traitor. The detective sees that one of the innocents went into the t-tester and tells the other players, this leads to the other innocent to be able to KOS the traitor as they are the only possible traitor.
         Taser: Tasing an innocent or traitor will reveal their role in chat. 
         DNA Scanner: The detective finds the killer of someone which can either be used to kos someone for killing an innocent or prove someone for killing a traitor.
