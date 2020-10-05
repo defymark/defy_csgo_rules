@@ -403,6 +403,7 @@ SUS (Suspicion)
         Being in a location where a traitorous act occurred
         Weapon used
         They are wearing cosmetics which were seen on someone committing traitorous acts
+
 Live Checks
     When someone calls a "Live Check", if you are innocent you should respond. Otherwise you may be sus. You can only call live checks during overtime.
 
@@ -416,18 +417,25 @@ The only allowed forms of logic are:
         Traitor Tester: Seeing someone being proven to be a certain role by a t-tester or detective says that someone went into the tester.
         Witnessing someone killing a traitor: If you see someone kill a traitor or if the detective says that someone killed a traitor you may use this information to use elimination to kill a T.
         Seeing someone take damage from a t item: If you see someone take damage from a T item they could be considered proven innocent as traitors would not take damage. This could include hurt station, poison smoke, etc. This does not include C4 as they can damage all players.
+        T-baiting: you may kill someone if they say they are T or continue to chase you after giving 3 verbal warnings to stop. You may not KOS them and you should only give warnings to stop chasing if they seemingly want to kill you.
+        Evidence: With enough evidence (would likely be gathered through multiple susable events occurring) you may kill, but not KOS, someone. 
+            This may include, but is not limited to:
+                They are in the room where you just heard shooting from the weapon they are holding and a body present.
+                They are repeatedly near places where shooting has occurred holding the weapon the shooting was done with.
+                They were seen together with multiple dead people prior to their deaths.
+                They are moving their head in a way that shows they are controlling a missile that is in the sky.
+                You see someone with their player model shooting. This is exclusive to player models as other cosmetics may be changed mid round. 
+            Killing off of this will be taken on a case by case basis however a good rule of thumb is that if you would be willing to risk your karma on killing this player you should be fine.
 
 Overtime
     Overtime begins when there is less than 2 minutes remaining in the round. During overtime you may kill players for suspicion, only if you are positive that they are the Traitor. Remember, your karma is affected if you kill an innocent. In order to kill a player for suspicion you must be prepared to explain why you are suspicious of that player if asked. Explaining suspicion during the round will allow other players to decide whether or not they want to kill that player in overtime.
 
 Misc
-    Type /menu to purchase items from the Traitor Shop
+    Type /shop to purchase items from the Traitor Shop
     Taser does not kill players, it identifies them.
     If someone activates the jihad you may kill them only if you are sure they activated it.
     If someone is shooting through a wall you may shoot back, but only for 3 seconds after they stop shooting, besides walls which lead to t-rooms which should only contain traitors.
-    Verbal t baiting, saying things like "I'm the traitor" is not kosable.
-        Players may sus and kill you in overtime for verbal t bait.
-
+    Verbal t-bait may be sussed/killed for.
 
 How are punishments issued?
 
