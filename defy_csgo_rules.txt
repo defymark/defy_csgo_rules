@@ -417,7 +417,7 @@ The only allowed forms of logic are:
         Traitor Tester: Seeing someone being proven to be a certain role by a t-tester or detective says that someone went into the tester.
         Witnessing someone killing a traitor: If you see someone kill a traitor or if the detective says that someone killed a traitor you may use this information to use elimination to kill a T.
         Seeing someone take damage from a t item: If you see someone take damage from a T item they could be considered proven innocent as traitors would not take damage. This could include hurt station, poison smoke, etc. This does not include C4 as they can damage all players.
-        T-baiting: you may kill someone if they say they are T or continue to chase you after giving 3 verbal warnings to stop. You may not KOS them and you should only give warnings to stop chasing if they seemingly want to kill you.
+        T-baiting: you may kill someone if they say they are T.
         Evidence: With enough evidence (would likely be gathered through multiple susable events occurring) you may kill, but not KOS, someone. 
             This may include, but is not limited to:
                 They are in the room where you just heard shooting from the weapon they are holding and a body present.
